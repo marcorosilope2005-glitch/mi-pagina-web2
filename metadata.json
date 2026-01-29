@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bar Paco - Sabor Tradicional",
+  "description": "Una web moderna y elegante para el emblemático Bar Paco, destacando su historia, especialidades gastronómicas y un asistente virtual impulsado por IA para recomendaciones personalizadas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
